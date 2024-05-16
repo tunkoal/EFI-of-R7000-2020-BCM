@@ -1,0 +1,2 @@
+# EFI-of-R7000-2020-BCM
+opencore黑苹果EFI，适用于拯救者R7000-R5-4600H—BCM
